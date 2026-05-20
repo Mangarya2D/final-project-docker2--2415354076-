@@ -11,7 +11,7 @@
 
 ## Teknologi & Tools yang Digunakan
 
-- **Sistem Operasi:** Mac OS Ventura
+- **Sistem Operasi:**  windows os
 - **Containerization:** Docker & Docker Hub
 - **Bahasa Pemrograman / Framework:** Node.js
 - **Tools Lain:** VS Code, Git, Postman
